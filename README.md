@@ -3,7 +3,7 @@
 ## I'm a software developer from Spain!
 
 - 🔭 I love tech!
-- 🌱 I’m currently learning kubernetes and docker.
+- :ear_of_rice: I’m currently learning kubernetes and docker.
 - 🌱 Always looking to learn new things and connect with people!
 - ⚡ Fun fact: I'm also a music producer, currently working on some huge projects
 
