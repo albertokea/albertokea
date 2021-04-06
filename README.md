@@ -5,8 +5,8 @@
 - 🔭 I love tech!
 - :ear_of_rice: I’m currently learning kubernetes and docker.
 - 🌱 Always looking to learn new things and connect with people!
+- - :fireworks: Stack MEAN
 - ⚡ Fun fact: I'm also a music producer, currently working on some huge projects
-- :fireworks: Stack MEAN
 
 ### Connect with me:
 
